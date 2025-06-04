@@ -1,26 +1,26 @@
 {
-  "root": "/Users/chankim/Desktop/rn/ezManual/frontend",
-  "reactNativePath": "/Users/chankim/Desktop/rn/ezManual/frontend/node_modules/react-native",
+  "root": "C:\\Users\\Administrator\\Desktop\\ezManual\\frontend",
+  "reactNativePath": "C:\\Users\\Administrator\\Desktop\\ezManual\\frontend\\node_modules\\react-native",
   "reactNativeVersion": "0.79",
   "dependencies": {
     "@react-native-async-storage/async-storage": {
-      "root": "/Users/chankim/Desktop/rn/ezManual/frontend/node_modules/@react-native-async-storage/async-storage",
+      "root": "C:\\Users\\Administrator\\Desktop\\ezManual\\frontend\\node_modules\\@react-native-async-storage\\async-storage",
       "name": "@react-native-async-storage/async-storage",
       "platforms": {
         "ios": {
-          "podspecPath": "/Users/chankim/Desktop/rn/ezManual/frontend/node_modules/@react-native-async-storage/async-storage/RNCAsyncStorage.podspec",
+          "podspecPath": "C:\\Users\\Administrator\\Desktop\\ezManual\\frontend\\node_modules\\@react-native-async-storage\\async-storage\\RNCAsyncStorage.podspec",
           "version": "2.1.2",
           "configurations": [],
           "scriptPhases": []
         },
         "android": {
-          "sourceDir": "/Users/chankim/Desktop/rn/ezManual/frontend/node_modules/@react-native-async-storage/async-storage/android",
+          "sourceDir": "C:\\Users\\Administrator\\Desktop\\ezManual\\frontend\\node_modules\\@react-native-async-storage\\async-storage\\android",
           "packageImportPath": "import com.reactnativecommunity.asyncstorage.AsyncStoragePackage;",
           "packageInstance": "new AsyncStoragePackage()",
           "buildTypes": [],
           "libraryName": "rnasyncstorage",
           "componentDescriptors": [],
-          "cmakeListsPath": "/Users/chankim/Desktop/rn/ezManual/frontend/node_modules/@react-native-async-storage/async-storage/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cmakeListsPath": "C:/Users/Administrator/Desktop/ezManual/frontend/node_modules/@react-native-async-storage/async-storage/android/build/generated/source/codegen/jni/CMakeLists.txt",
           "cxxModuleCMakeListsModuleName": null,
           "cxxModuleCMakeListsPath": null,
           "cxxModuleHeaderName": null,
@@ -29,23 +29,23 @@
       }
     },
     "@react-native-camera-roll/camera-roll": {
-      "root": "/Users/chankim/Desktop/rn/ezManual/frontend/node_modules/@react-native-camera-roll/camera-roll",
+      "root": "C:\\Users\\Administrator\\Desktop\\ezManual\\frontend\\node_modules\\@react-native-camera-roll\\camera-roll",
       "name": "@react-native-camera-roll/camera-roll",
       "platforms": {
         "ios": {
-          "podspecPath": "/Users/chankim/Desktop/rn/ezManual/frontend/node_modules/@react-native-camera-roll/camera-roll/react-native-cameraroll.podspec",
+          "podspecPath": "C:\\Users\\Administrator\\Desktop\\ezManual\\frontend\\node_modules\\@react-native-camera-roll\\camera-roll\\react-native-cameraroll.podspec",
           "version": "7.10.0",
           "configurations": [],
           "scriptPhases": []
         },
         "android": {
-          "sourceDir": "/Users/chankim/Desktop/rn/ezManual/frontend/node_modules/@react-native-camera-roll/camera-roll/android",
+          "sourceDir": "C:\\Users\\Administrator\\Desktop\\ezManual\\frontend\\node_modules\\@react-native-camera-roll\\camera-roll\\android",
           "packageImportPath": "import com.reactnativecommunity.cameraroll.CameraRollPackage;",
           "packageInstance": "new CameraRollPackage()",
           "buildTypes": [],
           "libraryName": "rncameraroll",
           "componentDescriptors": [],
-          "cmakeListsPath": "/Users/chankim/Desktop/rn/ezManual/frontend/node_modules/@react-native-camera-roll/camera-roll/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cmakeListsPath": "C:/Users/Administrator/Desktop/ezManual/frontend/node_modules/@react-native-camera-roll/camera-roll/android/build/generated/source/codegen/jni/CMakeLists.txt",
           "cxxModuleCMakeListsModuleName": null,
           "cxxModuleCMakeListsPath": null,
           "cxxModuleHeaderName": null,
@@ -54,23 +54,23 @@
       }
     },
     "react-native-reanimated": {
-      "root": "/Users/chankim/Desktop/rn/ezManual/frontend/node_modules/react-native-reanimated",
+      "root": "C:\\Users\\Administrator\\Desktop\\ezManual\\frontend\\node_modules\\react-native-reanimated",
       "name": "react-native-reanimated",
       "platforms": {
         "ios": {
-          "podspecPath": "/Users/chankim/Desktop/rn/ezManual/frontend/node_modules/react-native-reanimated/RNReanimated.podspec",
+          "podspecPath": "C:\\Users\\Administrator\\Desktop\\ezManual\\frontend\\node_modules\\react-native-reanimated\\RNReanimated.podspec",
           "version": "3.18.0",
           "configurations": [],
           "scriptPhases": []
         },
         "android": {
-          "sourceDir": "/Users/chankim/Desktop/rn/ezManual/frontend/node_modules/react-native-reanimated/android",
+          "sourceDir": "C:\\Users\\Administrator\\Desktop\\ezManual\\frontend\\node_modules\\react-native-reanimated\\android",
           "packageImportPath": "import com.swmansion.reanimated.ReanimatedPackage;",
           "packageInstance": "new ReanimatedPackage()",
           "buildTypes": [],
           "libraryName": "rnreanimated",
           "componentDescriptors": [],
-          "cmakeListsPath": "/Users/chankim/Desktop/rn/ezManual/frontend/node_modules/react-native-reanimated/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cmakeListsPath": "C:/Users/Administrator/Desktop/ezManual/frontend/node_modules/react-native-reanimated/android/build/generated/source/codegen/jni/CMakeLists.txt",
           "cxxModuleCMakeListsModuleName": null,
           "cxxModuleCMakeListsPath": null,
           "cxxModuleHeaderName": null,
@@ -79,17 +79,17 @@
       }
     },
     "react-native-safe-area-context": {
-      "root": "/Users/chankim/Desktop/rn/ezManual/frontend/node_modules/react-native-safe-area-context",
+      "root": "C:\\Users\\Administrator\\Desktop\\ezManual\\frontend\\node_modules\\react-native-safe-area-context",
       "name": "react-native-safe-area-context",
       "platforms": {
         "ios": {
-          "podspecPath": "/Users/chankim/Desktop/rn/ezManual/frontend/node_modules/react-native-safe-area-context/react-native-safe-area-context.podspec",
+          "podspecPath": "C:\\Users\\Administrator\\Desktop\\ezManual\\frontend\\node_modules\\react-native-safe-area-context\\react-native-safe-area-context.podspec",
           "version": "5.4.1",
           "configurations": [],
           "scriptPhases": []
         },
         "android": {
-          "sourceDir": "/Users/chankim/Desktop/rn/ezManual/frontend/node_modules/react-native-safe-area-context/android",
+          "sourceDir": "C:\\Users\\Administrator\\Desktop\\ezManual\\frontend\\node_modules\\react-native-safe-area-context\\android",
           "packageImportPath": "import com.th3rdwave.safeareacontext.SafeAreaContextPackage;",
           "packageInstance": "new SafeAreaContextPackage()",
           "buildTypes": [],
@@ -98,7 +98,7 @@
             "RNCSafeAreaProviderComponentDescriptor",
             "RNCSafeAreaViewComponentDescriptor"
           ],
-          "cmakeListsPath": "/Users/chankim/Desktop/rn/ezManual/frontend/node_modules/react-native-safe-area-context/android/src/main/jni/CMakeLists.txt",
+          "cmakeListsPath": "C:/Users/Administrator/Desktop/ezManual/frontend/node_modules/react-native-safe-area-context/android/src/main/jni/CMakeLists.txt",
           "cxxModuleCMakeListsModuleName": null,
           "cxxModuleCMakeListsPath": null,
           "cxxModuleHeaderName": null,
@@ -107,23 +107,23 @@
       }
     },
     "react-native-share": {
-      "root": "/Users/chankim/Desktop/rn/ezManual/frontend/node_modules/react-native-share",
+      "root": "C:\\Users\\Administrator\\Desktop\\ezManual\\frontend\\node_modules\\react-native-share",
       "name": "react-native-share",
       "platforms": {
         "ios": {
-          "podspecPath": "/Users/chankim/Desktop/rn/ezManual/frontend/node_modules/react-native-share/RNShare.podspec",
+          "podspecPath": "C:\\Users\\Administrator\\Desktop\\ezManual\\frontend\\node_modules\\react-native-share\\RNShare.podspec",
           "version": "12.0.11",
           "configurations": [],
           "scriptPhases": []
         },
         "android": {
-          "sourceDir": "/Users/chankim/Desktop/rn/ezManual/frontend/node_modules/react-native-share/android",
+          "sourceDir": "C:\\Users\\Administrator\\Desktop\\ezManual\\frontend\\node_modules\\react-native-share\\android",
           "packageImportPath": "import cl.json.RNSharePackage;",
           "packageInstance": "new RNSharePackage()",
           "buildTypes": [],
           "libraryName": "RNShareSpec",
           "componentDescriptors": [],
-          "cmakeListsPath": "/Users/chankim/Desktop/rn/ezManual/frontend/node_modules/react-native-share/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cmakeListsPath": "C:/Users/Administrator/Desktop/ezManual/frontend/node_modules/react-native-share/android/build/generated/source/codegen/jni/CMakeLists.txt",
           "cxxModuleCMakeListsModuleName": null,
           "cxxModuleCMakeListsPath": null,
           "cxxModuleHeaderName": null,
@@ -132,17 +132,17 @@
       }
     },
     "react-native-svg": {
-      "root": "/Users/chankim/Desktop/rn/ezManual/frontend/node_modules/react-native-svg",
+      "root": "C:\\Users\\Administrator\\Desktop\\ezManual\\frontend\\node_modules\\react-native-svg",
       "name": "react-native-svg",
       "platforms": {
         "ios": {
-          "podspecPath": "/Users/chankim/Desktop/rn/ezManual/frontend/node_modules/react-native-svg/RNSVG.podspec",
+          "podspecPath": "C:\\Users\\Administrator\\Desktop\\ezManual\\frontend\\node_modules\\react-native-svg\\RNSVG.podspec",
           "version": "15.12.0",
           "configurations": [],
           "scriptPhases": []
         },
         "android": {
-          "sourceDir": "/Users/chankim/Desktop/rn/ezManual/frontend/node_modules/react-native-svg/android",
+          "sourceDir": "C:\\Users\\Administrator\\Desktop\\ezManual\\frontend\\node_modules\\react-native-svg\\android",
           "packageImportPath": "import com.horcrux.svg.SvgPackage;",
           "packageInstance": "new SvgPackage()",
           "buildTypes": [],
@@ -178,7 +178,7 @@
             "RNSVGTSpanComponentDescriptor",
             "RNSVGUseComponentDescriptor"
           ],
-          "cmakeListsPath": "/Users/chankim/Desktop/rn/ezManual/frontend/node_modules/react-native-svg/android/src/main/jni/CMakeLists.txt",
+          "cmakeListsPath": "C:/Users/Administrator/Desktop/ezManual/frontend/node_modules/react-native-svg/android/src/main/jni/CMakeLists.txt",
           "cxxModuleCMakeListsModuleName": null,
           "cxxModuleCMakeListsPath": null,
           "cxxModuleHeaderName": null,
@@ -187,23 +187,23 @@
       }
     },
     "react-native-view-shot": {
-      "root": "/Users/chankim/Desktop/rn/ezManual/frontend/node_modules/react-native-view-shot",
+      "root": "C:\\Users\\Administrator\\Desktop\\ezManual\\frontend\\node_modules\\react-native-view-shot",
       "name": "react-native-view-shot",
       "platforms": {
         "ios": {
-          "podspecPath": "/Users/chankim/Desktop/rn/ezManual/frontend/node_modules/react-native-view-shot/react-native-view-shot.podspec",
+          "podspecPath": "C:\\Users\\Administrator\\Desktop\\ezManual\\frontend\\node_modules\\react-native-view-shot\\react-native-view-shot.podspec",
           "version": "4.0.3",
           "configurations": [],
           "scriptPhases": []
         },
         "android": {
-          "sourceDir": "/Users/chankim/Desktop/rn/ezManual/frontend/node_modules/react-native-view-shot/android",
+          "sourceDir": "C:\\Users\\Administrator\\Desktop\\ezManual\\frontend\\node_modules\\react-native-view-shot\\android",
           "packageImportPath": "import fr.greweb.reactnativeviewshot.RNViewShotPackage;",
           "packageInstance": "new RNViewShotPackage()",
           "buildTypes": [],
           "libraryName": "rnviewshot",
           "componentDescriptors": [],
-          "cmakeListsPath": "/Users/chankim/Desktop/rn/ezManual/frontend/node_modules/react-native-view-shot/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cmakeListsPath": "C:/Users/Administrator/Desktop/ezManual/frontend/node_modules/react-native-view-shot/android/build/generated/source/codegen/jni/CMakeLists.txt",
           "cxxModuleCMakeListsModuleName": null,
           "cxxModuleCMakeListsPath": null,
           "cxxModuleHeaderName": null,
@@ -374,7 +374,7 @@
         {
           "name": "--path <path>",
           "description": "Path to the React Native project root.",
-          "default": "/Users/chankim/Desktop/rn/ezManual/frontend"
+          "default": "C:\\Users\\Administrator\\Desktop\\ezManual\\frontend"
         },
         {
           "name": "--platform <string>",
@@ -431,7 +431,7 @@
         {
           "name": "--terminal <string>",
           "description": "Launches the Metro Bundler in a new window using the specified terminal path.",
-          "default": "Apple_Terminal"
+          "default": "cmd.exe"
         },
         {
           "name": "--binary-path <string>",
@@ -591,7 +591,7 @@
         {
           "name": "--terminal <string>",
           "description": "Launches the Metro Bundler in a new window using the specified terminal path.",
-          "default": "Apple_Terminal"
+          "default": "cmd.exe"
         },
         {
           "name": "--appId <string>",
@@ -667,7 +667,7 @@
   "project": {
     "ios": null,
     "android": {
-      "sourceDir": "/Users/chankim/Desktop/rn/ezManual/frontend/android",
+      "sourceDir": "C:\\Users\\Administrator\\Desktop\\ezManual\\frontend\\android",
       "appName": "app",
       "packageName": "com.awesomeproject",
       "applicationId": "com.awesomeproject",
