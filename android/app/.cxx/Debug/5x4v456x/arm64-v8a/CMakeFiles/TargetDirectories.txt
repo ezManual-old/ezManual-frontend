@@ -1,0 +1,3 @@
+/Users/chankim/Desktop/rn/AwesomeProject/android/app/.cxx/Debug/5x4v456x/arm64-v8a/CMakeFiles/appmodules.dir
+/Users/chankim/Desktop/rn/AwesomeProject/android/app/.cxx/Debug/5x4v456x/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/chankim/Desktop/rn/AwesomeProject/android/app/.cxx/Debug/5x4v456x/arm64-v8a/CMakeFiles/rebuild_cache.dir
