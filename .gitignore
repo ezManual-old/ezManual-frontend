@@ -1,4 +1,35 @@
-node_modules
+# OS 기본 무시 파일
+.DS_Store
+._*
+Thumbs.db
+
+# 개발 환경
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
 .env
-.vscode
-android/app/build
+.env.local
+
+# Android
+android/.gradle/
+android/app/build/
+android/build/
+local.properties
+android/keystores/debug.keystore
+
+# 캐시/로그
+*.log
+*.tmp
+*.bak
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# React Native
+/android/app/debug
+/android/app/release
+/android/app/.cxx/
